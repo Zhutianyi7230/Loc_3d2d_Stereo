@@ -1,0 +1,4 @@
+/home/zhutianyi/loc3d2d/build/CMakeFiles/optimizer.dir
+/home/zhutianyi/loc3d2d/build/CMakeFiles/loc3d2d.dir
+/home/zhutianyi/loc3d2d/build/CMakeFiles/edit_cache.dir
+/home/zhutianyi/loc3d2d/build/CMakeFiles/rebuild_cache.dir

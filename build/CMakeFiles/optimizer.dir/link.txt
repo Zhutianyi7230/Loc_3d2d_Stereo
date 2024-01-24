@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++17 -O2  -msse -msse2 -msse3 -msse4 -msse4.1 -msse4.2 -O3 -DNDEBUG -shared -Wl,-soname,liboptimizer.so -o liboptimizer.so CMakeFiles/optimizer.dir/src/converter.cpp.o CMakeFiles/optimizer.dir/src/optimizer.cpp.o  -Wl,-rpath,/usr/local/lib /usr/local/lib/libg2o_core.so /usr/local/lib/libg2o_stuff.so -lg2o_types_sba 
